@@ -1,0 +1,14 @@
+p{
+    margin: 40px;
+    padding: 20px;
+}
+
+.sem-cor{
+    background-color: blue;
+    font-style: #f5f5f5;
+}
+
+.com-cor{
+    background-color: blueviolet;
+    font-style: #f0cce2;
+}
